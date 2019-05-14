@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.961/x64" 1557841125
+<REAPER_PROJECT 0.1 "5.961/x64" 1557843586
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -15,8 +15,8 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 50.47430263272122 0 0
-  VZOOMEX 8
+  ZOOM 16.73412152226501 0 0
+  VZOOMEX 11
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 6 5
-  SELECTION2 6 5
+  SELECTION 21.5 22
+  SELECTION2 21.5 22
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -128,6 +128,28 @@
         FILE "VID_20190425_165731.mp4"
       >
     >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 59.641
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AB48469E-07F4-47B8-B1F8-2579E56432F0}
+      IID 39
+      NAME VID_20190425_165731.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1AEB9406-CF6B-4EA8-8500-2DC0A3E42DF5}
+      <SOURCE VIDEO
+        FILE "VID_20190425_165731.mp4"
+      >
+    >
   >
   <TRACK {F344E7EF-1A64-4EA9-A7DE-41368934FBA9}
     NAME "SpeedKick (1)"
@@ -141,7 +163,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -152,6 +174,40 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 306 421 734 521
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531
+        Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAD8AAAA/AAAAP65HAT8AAAA/AAAAPwAAAD8AAIA/AAAAPw==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {768E1734-9104-4056-BD97-BA6E94BCA255}
+      <PARMENV 3 0 1 0.5
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT 0 0.5 0
+        PT 4.5 0.50414079 0
+        PT 7.5 0.56832298 0
+        PT 10.5 0.63871636 0
+        PT 25 0.65497757 0
+        PT 27.5 0.63914769 0
+        PT 34.5 0.66563147 0
+        PT 39 0.74223602 0
+        PT 42.5 0.63250518 0
+        PT 49 0.64492754 0
+        PT 53 0.60559006 0 0 1
+        PT 56.5 0.50207039 0
+      >
+      WAK 0
+    >
     <ITEM
       POSITION 1.5
       SNAPOFFS 0
@@ -931,7 +987,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {9ECABAF4-9D30-425B-9EC9-28E39EDCE00B}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -950,8 +1006,8 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
+    VOLPAN 0.26351193423099 0 -1 -1 1
+    MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 0 0
     BUSCOMP 0 0
@@ -968,16 +1024,74 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <VOLENV2
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 0 0
+      PT 8 0.05 0
+      PT 8.5 0.2 0
+      PT 15.5 1 0 0 1
+      PT 19.5 0.01 0
+      PT 21.5 0.01 0
+      PT 21.5 0.3 0
+      PT 23 0.7 0
+      PT 24.5 0 0
+      PT 25.5 0 0
+      PT 25.5 0.29 0
+      PT 28.5 0.98 0
+      PT 32.5 0.01 0
+      PT 39 0 0
+      PT 43 0.17 0
+      PT 46.5 0.3 0
+    >
+    <FXCHAIN
+      WNDRECT 420 374 953 416
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS utility/chanmix2 ""
+        -1.000000 0.000000 0.000000 -120.000000 1.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {5F951226-D701-42AA-B309-9BE48EAF0748}
+      <PARMENV 1 -1 1 0
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT 0 0 0
+        PT 8.5 0 0
+        PT 8.5 -1 0
+        PT 15.5 -0.99 0 0 1
+        PT 19.5 -0.01 0
+        PT 21.5 -0.02 0
+        PT 21.5 0.99 0
+        PT 23 1 0
+        PT 24.5 0 0
+        PT 25.5 0.01 0
+        PT 25.5 -0.99 0
+        PT 28.5 -1 0
+        PT 32.5 0.04 0
+        PT 39 0.02 0
+        PT 43 -0.99 0
+      >
+      WAK 0
+    >
     <ITEM
-      POSITION 7
+      POSITION 0
       SNAPOFFS 0
-      LENGTH 50
+      LENGTH 57.5
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {19DFBF68-A10F-4786-A25F-C4391C192CE4}
       IID 3
       NAME 149445__jhepkema__noise.mp3
