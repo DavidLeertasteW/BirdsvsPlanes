@@ -1,0 +1,994 @@
+<REAPER_PROJECT 0.1 "5.961/x64" 1557841125
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0
+  ZOOM 50.47430263272122 0 0
+  VZOOMEX 8
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 6 5
+  SELECTION2 6 5
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {908655CC-A862-442D-81C7-807084742E74}
+    NAME VID_20190425_165731
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {908655CC-A862-442D-81C7-807084742E74}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 59.641
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8529CCBF-7DDE-4F04-A0C8-D5C1B4550010}
+      IID 1
+      NAME VID_20190425_165731.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5EB342B-682C-4F84-9C75-D81DDA3DDB6E}
+      <SOURCE VIDEO
+        FILE "VID_20190425_165731.mp4"
+      >
+    >
+  >
+  <TRACK {F344E7EF-1A64-4EA9-A7DE-41368934FBA9}
+    NAME "SpeedKick (1)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F344E7EF-1A64-4EA9-A7DE-41368934FBA9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 1.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {24918DF1-7E4F-430A-9A78-D1A67C4E61B0}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {293ACCF7-1A0A-4F6F-A54E-DA9D73187283}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 1.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AB96BFDD-B774-4F46-9655-E6380FC7A5BA}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {764668B4-F5F7-44EC-9C02-30F6AE27A96A}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 1.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B2DBBCF7-935B-49B8-9A77-87A400D648DD}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE54C4DF-61E6-48AF-BF67-3179F3CBD656}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 9.5
+      SNAPOFFS 0
+      LENGTH 1.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FB002D83-AEF4-47F6-9098-A7CE5CE1D40D}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D4B10789-98BA-4D5B-9B37-16C20777AF62}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 11.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3F914EA9-A77C-45E8-BFF4-368EA02E365A}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F19A24F0-7101-432A-995F-9F925617DA45}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 13
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {279CB2FC-1514-49B6-8D83-DF0C7FF9B64E}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5D55D76F-45DB-4603-8089-1BF10787D0FF}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 14.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2D57101E-9FEB-4EF7-866D-C6349EDB8D0A}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {669FA086-2147-4208-AFED-63B6247D0731}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 16
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C425E4DF-4AF8-4B7B-8A95-20B28B826BD7}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CB9FD57C-E551-4826-9082-79E3F6E9D5BB}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 17.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {858F8AB3-58B5-4D79-837F-685F0A1C7104}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B732FC9C-6A0E-4418-8D50-34A2C3AE7107}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 19
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CA36C957-7E41-4AE2-9FFB-DF3AE5C15B7E}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {29528CA3-0C74-4292-966E-4F8697A5BB15}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 20.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BCB82249-1F1F-44A3-8494-29BC8B3C1148}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5BA3E251-2202-4C1A-900C-9FF6F12FA627}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 22
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {45D2DB73-1F18-4D93-883C-FF45CE38B33D}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5E97297D-F7E4-4C4B-8C4C-469A31B99926}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 23.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {21ADD9E3-4673-4C6D-A812-E7CDEDA578E0}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3889637-6D64-4BB6-AFD2-723000E8AE76}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 25
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8A3661EA-5F77-4C4A-B795-67D134588661}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CA8C9E4F-C0CF-4D27-93BE-521768ECA545}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 26.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2D59721C-E8A4-4854-9F11-3980CD65AED8}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {502D0203-FA0A-43A1-BDF1-296D9C56F6A9}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 28
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {87CF270D-C701-4356-8358-5047CC2BA8AC}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {642625E4-DB31-4A09-95F3-F6FF3463798D}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 29.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {723D69D1-80F0-4BCC-AEDE-E4F73F0F128F}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {34AF4482-D001-4CB8-8C1C-77184CB96AE1}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 31
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6A3FAE18-24BE-43AD-B94B-300431E93A36}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CC634119-123A-467F-B76B-5FEBF62F77CD}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 32.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {63D38AC5-742D-40C9-8217-685E3A48BE46}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6059EDDC-58F8-4D51-B743-21F1A5B858E7}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 34
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6148D789-7C35-4F9B-B6BB-A3B05917ACC6}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7DD0B14E-9744-4F30-AFF2-2654941A9D4B}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 35.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {46FBCF57-8136-4332-A0A9-A81293F2780E}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1532EDD3-6D7A-4A2A-99EB-93435D8AB2FD}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 37
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5AE1208C-EE82-475B-A4F8-185F27595E34}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {793BC64A-BB22-4D4C-AD64-39A5BA1AC970}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 38.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {15647D5E-8B4E-4E8D-8A85-31B35AD8C81E}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7479CC29-2898-4EE5-B271-F451047772F5}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 40
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {26BE9F3E-B264-46DE-BD83-EC74C1C55142}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {36717890-B516-479E-A5FF-8CED9FA738CA}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 41.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E717721D-C5C3-4B02-B800-8A0A4920C64E}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A4CAAF40-2825-4F7D-BF2E-283DB942A0C2}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 43
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {20628B1F-FBF9-4A64-86D7-6F83A32D8231}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EC30F5DA-6240-427F-943F-7836607B3277}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 44.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {99957D2A-7069-4EC7-B254-8A70814E178A}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7BBB254E-FEC4-4CC1-B2F3-229E5126553D}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 46
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {83A002E6-1A6F-41D6-A133-6B4C135BBE00}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {89E1CC13-9921-456D-AAFE-66D321A31281}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 47.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {60DE1771-1084-43C2-9B47-DA1887DB5F9A}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {63E51776-EB64-45B8-BEA3-CF15919ED60B}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 49
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9122EF96-42EE-4B85-BC3E-D874C5C32845}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F40790D4-55F3-41C6-92FE-0337FA56D130}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 50.5
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D666357D-8857-4FB5-9735-707C79401978}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3EFD014D-68E2-4CD4-B92E-28084A14A817}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 52
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {622B51EE-558A-450D-A2D3-936E31F82BE2}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E54410C8-602A-48D8-8766-5DAE2E4D47A5}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 53
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B1C7BA0D-F763-4946-B256-9B9180BB1A01}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {751B6B1F-E917-49D3-A8FD-519A99E913B7}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 54
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {000315CC-2258-4904-9E1E-C855E16690CB}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2BDA2FCC-79D5-4E27-A7BA-F5A898BD6855}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 55
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {37D1813C-93D2-42FA-8F1A-5782362CD22E}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD6FF174-B2E6-4A6B-9F0C-35484F573BAF}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+    <ITEM
+      POSITION 56
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {9ECABAF4-9D30-425B-9EC9-28E39EDCE00B}
+      IID 2
+      NAME "SpeedKick (1).wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E91DA6C6-A57C-4AD6-B8A4-B3B40C024ABC}
+      <SOURCE WAVE
+        FILE "SpeedKick (1).wav"
+      >
+    >
+  >
+  <TRACK {2D55BFFC-AC26-4E12-8493-31036953C9F4}
+    NAME 149445__jhepkema__noise
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2D55BFFC-AC26-4E12-8493-31036953C9F4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 50
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {19DFBF68-A10F-4786-A25F-C4391C192CE4}
+      IID 3
+      NAME 149445__jhepkema__noise.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72909022-5199-474A-844E-3A5A89347EE5}
+      <SOURCE MP3
+        FILE "149445__jhepkema__noise.mp3" 1
+      >
+    >
+  >
+>
