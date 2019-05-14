@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.961/x64" 1557843586
+<REAPER_PROJECT 0.1 "5.961/x64" 1557844356
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -15,7 +15,7 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 16.73412152226501 0 0
+  ZOOM 23.55416726729404 0 0
   VZOOMEX 11
   USE_REC_CFG 0
   RECMODE 1
@@ -140,7 +140,7 @@
       SEL 0
       IGUID {AB48469E-07F4-47B8-B1F8-2579E56432F0}
       IID 39
-      NAME VID_20190425_165731.mp4
+      NAME Video
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
@@ -217,7 +217,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {24918DF1-7E4F-430A-9A78-D1A67C4E61B0}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -239,7 +239,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {AB96BFDD-B774-4F46-9655-E6380FC7A5BA}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -261,7 +261,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {B2DBBCF7-935B-49B8-9A77-87A400D648DD}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -283,7 +283,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {FB002D83-AEF4-47F6-9098-A7CE5CE1D40D}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -305,7 +305,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {3F914EA9-A77C-45E8-BFF4-368EA02E365A}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -327,7 +327,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {279CB2FC-1514-49B6-8D83-DF0C7FF9B64E}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -349,7 +349,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {2D57101E-9FEB-4EF7-866D-C6349EDB8D0A}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -371,7 +371,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {C425E4DF-4AF8-4B7B-8A95-20B28B826BD7}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -393,7 +393,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {858F8AB3-58B5-4D79-837F-685F0A1C7104}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -415,7 +415,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {CA36C957-7E41-4AE2-9FFB-DF3AE5C15B7E}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -437,7 +437,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {BCB82249-1F1F-44A3-8494-29BC8B3C1148}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -459,7 +459,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {45D2DB73-1F18-4D93-883C-FF45CE38B33D}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -481,7 +481,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {21ADD9E3-4673-4C6D-A812-E7CDEDA578E0}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -503,7 +503,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {8A3661EA-5F77-4C4A-B795-67D134588661}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -525,7 +525,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {2D59721C-E8A4-4854-9F11-3980CD65AED8}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -547,7 +547,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {87CF270D-C701-4356-8358-5047CC2BA8AC}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -569,7 +569,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {723D69D1-80F0-4BCC-AEDE-E4F73F0F128F}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -591,7 +591,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {6A3FAE18-24BE-43AD-B94B-300431E93A36}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -613,7 +613,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {63D38AC5-742D-40C9-8217-685E3A48BE46}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -635,7 +635,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {6148D789-7C35-4F9B-B6BB-A3B05917ACC6}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -657,7 +657,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {46FBCF57-8136-4332-A0A9-A81293F2780E}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -679,7 +679,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {5AE1208C-EE82-475B-A4F8-185F27595E34}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -701,7 +701,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {15647D5E-8B4E-4E8D-8A85-31B35AD8C81E}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -723,7 +723,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {26BE9F3E-B264-46DE-BD83-EC74C1C55142}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -745,7 +745,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {E717721D-C5C3-4B02-B800-8A0A4920C64E}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -767,7 +767,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {20628B1F-FBF9-4A64-86D7-6F83A32D8231}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -789,7 +789,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {99957D2A-7069-4EC7-B254-8A70814E178A}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -811,7 +811,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {83A002E6-1A6F-41D6-A133-6B4C135BBE00}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -833,7 +833,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {60DE1771-1084-43C2-9B47-DA1887DB5F9A}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -855,7 +855,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {9122EF96-42EE-4B85-BC3E-D874C5C32845}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -877,7 +877,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {D666357D-8857-4FB5-9735-707C79401978}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -899,7 +899,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {622B51EE-558A-450D-A2D3-936E31F82BE2}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -921,7 +921,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {B1C7BA0D-F763-4946-B256-9B9180BB1A01}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -943,7 +943,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {000315CC-2258-4904-9E1E-C855E16690CB}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -965,7 +965,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {37D1813C-93D2-42FA-8F1A-5782362CD22E}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -987,7 +987,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 0
+      SEL 1
       IGUID {9ECABAF4-9D30-425B-9EC9-28E39EDCE00B}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -1016,7 +1016,7 @@
     SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 175 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -1031,9 +1031,9 @@
       ARM 1
       DEFSHAPE 0 -1 -1
       PT 0 0 0
-      PT 8 0.05 0
+      PT 8 0.01 0 0 1
       PT 8.5 0.2 0
-      PT 15.5 1 0 0 1
+      PT 15.5 1 0
       PT 19.5 0.01 0
       PT 21.5 0.01 0
       PT 21.5 0.3 0
@@ -1048,9 +1048,9 @@
       PT 46.5 0.3 0
     >
     <FXCHAIN
-      WNDRECT 420 374 953 416
+      WNDRECT 420 374 556 484
       SHOW 0
-      LASTSEL 0
+      LASTSEL 1
       DOCKED 0
       BYPASS 0 0 0
       <JS utility/chanmix2 ""
@@ -1081,6 +1081,15 @@
         PT 43 -0.99 0
       >
       WAK 0
+      BYPASS 1 0 0
+      <VST "VSTi: ReaSynth (Cockos)" reasynth.dll 0 "" 1919251321
+        eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA8AAAAAAAAAAAAEAA=
+        776t3g3wrd5Gp09AF7fROgAAAACiRbY9exROP9XLCUD+Tbg916PwPgAAAD+c6pQ/AACAP7BySD8AAAAA
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {051FEEE8-5BA9-45ED-A413-097922876932}
+      WAK 0
     >
     <ITEM
       POSITION 0
@@ -1091,7 +1100,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {19DFBF68-A10F-4786-A25F-C4391C192CE4}
       IID 3
       NAME 149445__jhepkema__noise.mp3
