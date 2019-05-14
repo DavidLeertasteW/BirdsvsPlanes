@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.961/x64" 1557844356
+<REAPER_PROJECT 0.1 "5.70" 1557846063
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -8,14 +8,14 @@
   PEAKGAIN 1
   FEEDBACK 0
   PANLAW 1
-  PROJOFFS 0 0 0
+  PROJOFFS 0 0
   MAXPROJLEN 0 600
   GRID 3199 8 1 8 1 0 0 0
   TIMEMODE 1 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 23.55416726729404 0 0
+  CURSOR 32
+  ZOOM 4.26327721530604 0 0
   VZOOMEX 11
   USE_REC_CFG 0
   RECMODE 1
@@ -58,7 +58,7 @@
   SELECTION 21.5 22
   SELECTION2 21.5 22
   MASTERAUTOMODE 0
-  MASTERTRACKHEIGHT 0 0
+  MASTERTRACKHEIGHT 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
   MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
@@ -75,7 +75,7 @@
     DEFSHAPE 0 -1 -1
   >
   <TEMPOENVEX
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
@@ -98,7 +98,7 @@
     SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -166,7 +166,7 @@
     SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0
+    TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -182,7 +182,7 @@
       BYPASS 0 0 0
       <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531
         Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
-        AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAD8AAAA/AAAAP65HAT8AAAA/AAAAPwAAAD8AAIA/AAAAPw==
+        AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAP/T6Jz8AAAA/AAAAP65HAT8AAAA/AAAAPwAAAD8AAIA/AAAAPw==
         AAAQAAAA
       >
       FLOATPOS 0 0 0 0
@@ -217,7 +217,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {24918DF1-7E4F-430A-9A78-D1A67C4E61B0}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -239,7 +239,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {AB96BFDD-B774-4F46-9655-E6380FC7A5BA}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -261,7 +261,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {B2DBBCF7-935B-49B8-9A77-87A400D648DD}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -283,7 +283,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {FB002D83-AEF4-47F6-9098-A7CE5CE1D40D}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -305,7 +305,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {3F914EA9-A77C-45E8-BFF4-368EA02E365A}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -327,7 +327,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {279CB2FC-1514-49B6-8D83-DF0C7FF9B64E}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -349,7 +349,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {2D57101E-9FEB-4EF7-866D-C6349EDB8D0A}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -371,7 +371,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {C425E4DF-4AF8-4B7B-8A95-20B28B826BD7}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -393,7 +393,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {858F8AB3-58B5-4D79-837F-685F0A1C7104}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -415,7 +415,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {CA36C957-7E41-4AE2-9FFB-DF3AE5C15B7E}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -437,7 +437,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {BCB82249-1F1F-44A3-8494-29BC8B3C1148}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -459,7 +459,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {45D2DB73-1F18-4D93-883C-FF45CE38B33D}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -481,7 +481,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {21ADD9E3-4673-4C6D-A812-E7CDEDA578E0}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -503,7 +503,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {8A3661EA-5F77-4C4A-B795-67D134588661}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -525,7 +525,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {2D59721C-E8A4-4854-9F11-3980CD65AED8}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -547,7 +547,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {87CF270D-C701-4356-8358-5047CC2BA8AC}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -569,7 +569,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {723D69D1-80F0-4BCC-AEDE-E4F73F0F128F}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -591,7 +591,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {6A3FAE18-24BE-43AD-B94B-300431E93A36}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -613,7 +613,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {63D38AC5-742D-40C9-8217-685E3A48BE46}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -635,7 +635,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {6148D789-7C35-4F9B-B6BB-A3B05917ACC6}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -657,7 +657,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {46FBCF57-8136-4332-A0A9-A81293F2780E}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -679,7 +679,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {5AE1208C-EE82-475B-A4F8-185F27595E34}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -701,7 +701,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {15647D5E-8B4E-4E8D-8A85-31B35AD8C81E}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -723,7 +723,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {26BE9F3E-B264-46DE-BD83-EC74C1C55142}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -745,7 +745,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {E717721D-C5C3-4B02-B800-8A0A4920C64E}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -767,7 +767,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {20628B1F-FBF9-4A64-86D7-6F83A32D8231}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -789,7 +789,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {99957D2A-7069-4EC7-B254-8A70814E178A}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -811,7 +811,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {83A002E6-1A6F-41D6-A133-6B4C135BBE00}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -833,7 +833,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {60DE1771-1084-43C2-9B47-DA1887DB5F9A}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -855,7 +855,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {9122EF96-42EE-4B85-BC3E-D874C5C32845}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -877,7 +877,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {D666357D-8857-4FB5-9735-707C79401978}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -899,7 +899,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {622B51EE-558A-450D-A2D3-936E31F82BE2}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -921,7 +921,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {B1C7BA0D-F763-4946-B256-9B9180BB1A01}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -943,7 +943,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {000315CC-2258-4904-9E1E-C855E16690CB}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -965,7 +965,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {37D1813C-93D2-42FA-8F1A-5782362CD22E}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -987,7 +987,7 @@
       FADEIN 1 0.01 0 1 0 0
       FADEOUT 1 0.01 0 1 0 0
       MUTE 0
-      SEL 1
+      SEL 0
       IGUID {9ECABAF4-9D30-425B-9EC9-28E39EDCE00B}
       IID 2
       NAME "SpeedKick (1).wav"
@@ -1016,7 +1016,7 @@
     SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 175 0 0
+    TRACKHEIGHT 175 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -1054,7 +1054,7 @@
       DOCKED 0
       BYPASS 0 0 0
       <JS utility/chanmix2 ""
-        -1.000000 0.000000 0.000000 -120.000000 1.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+        -1.000000 -0.090000 0.000000 -120.000000 1.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
       >
       FLOATPOS 0 0 0 0
       FXID {5F951226-D701-42AA-B309-9BE48EAF0748}
@@ -1111,6 +1111,280 @@
       GUID {72909022-5199-474A-844E-3A5A89347EE5}
       <SOURCE MP3
         FILE "149445__jhepkema__noise.mp3" 1
+      >
+    >
+  >
+  <TRACK {53B6D360-3E30-4C88-9564-4A04B4121F9F}
+    NAME Ducks
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.48693947913596 0.552 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {53B6D360-3E30-4C88-9564-4A04B4121F9F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 39.5
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 6.5 0 1 0 0
+      FADEOUT 1.1 -0.5 1 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {9A020478-C9AF-43ED-8873-0859B4C96866}
+      IID 77
+      NAME Ducks.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 33.47269841269841
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {16B82A15-0F2F-4F5F-B561-92DA9E3A2C89}
+      <SOURCE MP3
+        FILE "Ducks.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 46
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 1 1 1 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7C589B37-9C95-4BA9-A3A3-2CB015C4246C}
+      IID 77
+      NAME Ducks.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.2966090029804
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9E7B9EFC-883D-46FB-B56C-AA01E03F8A34}
+      <SOURCE MP3
+        FILE "Ducks.mp3" 1
+      >
+    >
+  >
+  <TRACK {FCBC832B-2925-4DF4-915A-7B37C19C4508}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.37438658028591 0.56 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FCBC832B-2925-4DF4-915A-7B37C19C4508}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 41.5
+      SNAPOFFS 0
+      LENGTH 6.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 5.5 0 1 0 0
+      FADEOUT 1.1 0 1 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {03A57E69-0E1D-450B-8CB8-63481B5D8589}
+      IID 77
+      NAME Ducks.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 34.47269841269841
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {78A59ADC-64D4-4462-9327-0570788C779F}
+      <SOURCE MP3
+        FILE "Ducks.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 47
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 1 1 1 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1F6DDA74-F9FD-4981-A68B-BB2BB8DCC5E1}
+      IID 77
+      NAME Ducks.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.2966090029804
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {71E59048-1DE2-4C57-9DF0-39D1AB5289CA}
+      <SOURCE MP3
+        FILE "Ducks.mp3" 1
+      >
+    >
+  >
+  <TRACK {F660E23A-038C-4D67-8FBB-FF9C54199BDD}
+    NAME food-mixer
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0.64 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F660E23A-038C-4D67-8FBB-FF9C54199BDD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 47.5
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 6.127476 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A03FC87F-F8CC-4C91-81BF-13B08E8D7E2F}
+      IID 82
+      NAME food-mixer.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AF6ECB43-A1F9-4131-AE88-5E592ACBC499}
+      <SOURCE WAVE
+        FILE "food-mixer.wav"
+      >
+    >
+  >
+  <TRACK {57FD9E94-DE42-4566-BF5A-2D2DEE0082FA}
+    NAME Warning
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.20516320079248 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {57FD9E94-DE42-4566-BF5A-2D2DEE0082FA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 50.5
+      SNAPOFFS 0
+      LENGTH 7.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {75AE580F-E356-41CB-9B22-729CDDE594C0}
+      IID 84
+      NAME Warning.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.85714285714286 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2BADE5BD-F996-4225-87B3-CE10A0A6E234}
+      <SOURCE WAVE
+        FILE "Warning.wav"
+      >
+    >
+  >
+  <TRACK {2A52D325-0D8B-490A-9F42-0AD1A3B08C83}
+    NAME impact
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2A52D325-0D8B-490A-9F42-0AD1A3B08C83}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 57.5
+      SNAPOFFS 0
+      LENGTH 3.81430839002267
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5D8C3794-6ECA-4516-BD81-93B488CF1A7E}
+      IID 85
+      NAME impact.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.81430839002268
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E1A9ED96-04DF-42F0-931E-7E5D66FC6CD9}
+      <SOURCE WAVE
+        FILE "impact.wav"
       >
     >
   >
